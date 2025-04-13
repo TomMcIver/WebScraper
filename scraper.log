@@ -1,0 +1,152 @@
+2025-04-11 12:40:30,337 - INFO - Database setup complete
+2025-04-11 12:40:47,569 - INFO - Scraping source: CNBC (all articles)
+2025-04-11 12:40:47,570 - INFO - Scraping links from CNBC: https://www.cnbc.com/finance/
+2025-04-11 12:40:48,843 - INFO - Found 42 potential article links from CNBC
+2025-04-11 12:40:52,066 - INFO - Successfully saved article: Pro News and Analysis
+2025-04-11 12:40:56,700 - INFO - Successfully saved article: Wall Street's official 2025 stock market outlook: The latest CNBC Market Strategist Survey
+2025-04-11 12:40:59,117 - INFO - Successfully saved article: CNBC Pro Stock Lists:  Here are the latest stocks including all-weather plays
+2025-04-11 12:41:01,402 - INFO - Successfully saved article: Tariffs, trade war inflation impact to be 'pretty ugly' by summer
+2025-04-11 12:41:03,523 - INFO - Successfully saved article: Stocks making the biggest moves midday: CPRI, JNVR, HOG, KMX, X
+2025-04-11 12:41:06,067 - INFO - Successfully saved article: How the mother of all 'short squeezes' helped drive stocks to historic gains Wednesday
+2025-04-11 12:41:09,360 - INFO - Successfully saved article: Trump pivot on tariffs shows Wall Street still has a seat at his table
+2025-04-11 12:41:12,513 - INFO - Successfully saved article: Here’s the inflation breakdown for March 2025 — in one chart
+2025-04-11 12:41:15,456 - INFO - Successfully saved article: Stocks making the biggest moves premarket: TSLA, STLA, X, KMX, DAL
+2025-04-11 12:41:18,553 - INFO - Successfully saved article: Jeremy Siegel says stocks are 'not out of the woods' yet due to difficult China negotiations ahead
+2025-04-11 12:41:20,680 - INFO - Successfully saved article: Stock market posts third biggest gain in post-WWII history on Trump's tariff about-face
+2025-04-11 12:41:23,616 - INFO - Successfully saved article: Bill Ackman praises Trump's tariff pause: 'Thank you on behalf of all Americans'
+2025-04-11 12:41:25,613 - INFO - Successfully saved article: Chinese EV giant BYD expands in Europe with premium brand Denza launch
+2025-04-11 12:41:28,737 - INFO - Successfully saved article: Trump tariffs live updates: Navarro says stock market plunge 'No big deal'
+2025-04-11 12:41:30,909 - INFO - Successfully saved article: Stock market today: Live updates
+2025-04-11 12:41:33,646 - INFO - Successfully saved article: Supreme Court upholds order on Kilmar Abrego Garcia
+2025-04-11 12:41:35,732 - INFO - Successfully saved article: Charlie Munger's volatile-market advice: Don't invest if you can't handle swings
+2025-04-11 12:41:37,594 - INFO - Successfully saved article: How to check eligibility to claim the $1,400 IRS stimulus check
+2025-04-11 12:41:39,945 - INFO - Successfully saved article: Stocks making the biggest moves midday: AAPL, TSLA, ABBV, DAL and more
+2025-04-11 12:41:42,881 - INFO - Successfully saved article: Bessent says 'Main Street's turn' after Wall Street wealth grew for 4 decades
+2025-04-11 12:41:45,491 - INFO - Successfully saved article: Stocks making biggest moves premarket: WMT, TGT, AAPL, PFE and more
+2025-04-11 12:41:47,890 - INFO - Successfully saved article: Wall Street starts to cut China GDP forecasts on U.S. trade tensions
+2025-04-11 12:41:49,822 - INFO - Successfully saved article: U.S. financial regulator says email hack exposed sensitive bank data
+2025-04-11 12:41:51,759 - INFO - Successfully saved article: Stocks making the biggest moves midday: AAPL, HUM, WFC
+2025-04-11 12:41:54,300 - INFO - Successfully saved article: Jenny Harrington: The basics of income investing
+2025-04-11 12:41:56,632 - INFO - Successfully saved article: Crypto firm Ripple to buy prime broker Hidden Road for $1.25 billion
+2025-04-11 12:41:58,584 - INFO - Successfully saved article: Stocks making the biggest moves premarket: LEVI, UNH, MRVL, AVGO
+2025-04-11 12:42:02,610 - INFO - Successfully saved article: Fake job seekers use AI to interview for remote jobs, tech CEOs say
+2025-04-11 12:42:05,660 - INFO - Successfully saved article: Market volatility won't impact Mediobanca deal: Monte dei Paschi CEO
+2025-04-11 12:42:08,325 - INFO - Successfully saved article: Big Short investor Steve Eisman on tariff turmoil: Don't be a hero
+2025-04-11 12:42:12,485 - INFO - Successfully saved article: Stocks making the biggest moves after hours: CVS, AVGO, HUM
+2025-04-11 12:42:14,710 - INFO - Successfully saved article: Hedge funds make record short bets against stocks in 'self-protection mode'
+2025-04-11 12:42:17,622 - INFO - Successfully saved article: Stocks making the biggest moves midday: X, TSLA, DLTR, AAPL and more
+2025-04-11 12:42:19,755 - INFO - Successfully saved article: Stocks making biggest moves premarket: TSLA, COIN, STLA, PLTR and more
+2025-04-11 12:42:22,132 - INFO - Successfully saved article: Jamie Dimon says Trump tariffs will boost inflation, slow U.S. economy
+2025-04-11 12:42:25,899 - INFO - Successfully saved article: China's counter tariffs raise the specter of an intense trade war with U.S.
+2025-04-11 12:42:28,514 - INFO - Successfully saved article: Pennylane doubles valuation as Alphabet VC fund takes stake
+2025-04-11 12:42:31,179 - INFO - Successfully saved article: Bitcoin drops to $74,000 before rebounding as cryptocurrencies join global market rout
+2025-04-11 12:42:33,870 - INFO - Successfully saved article: China’s tech rally is still just getting started, despite tariffs
+2025-04-11 12:42:35,861 - INFO - Successfully saved article: Here's why 'dead' investors outperform the living
+2025-04-11 12:42:40,530 - INFO - Successfully saved article: Buffett denies social media rumors after Trump shares wild claim that investor backs president crashing market
+2025-04-11 12:42:45,513 - INFO - Successfully saved article: Stocks making the biggest moves midday: PLTR, CAT, AAPL JPM
+2025-04-11 12:42:46,505 - INFO - Scraping source: Bloomberg (all articles)
+2025-04-11 12:42:46,506 - INFO - Scraping links from Bloomberg: https://www.bloomberg.com/markets
+2025-04-11 12:42:47,538 - ERROR - Error fetching https://www.bloomberg.com/markets: 403 Client Error: Forbidden for url: https://www.bloomberg.com/markets
+2025-04-11 12:42:47,540 - INFO - Scraping source: Reuters Finance (all articles)
+2025-04-11 12:42:47,541 - INFO - Scraping links from Reuters Finance: https://www.reuters.com/business/finance/
+2025-04-11 12:42:48,369 - ERROR - Error fetching https://www.reuters.com/business/finance/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/finance/
+2025-04-11 12:42:48,371 - INFO - Scraping source: Yahoo Finance (all articles)
+2025-04-11 12:42:48,372 - INFO - Scraping links from Yahoo Finance: https://finance.yahoo.com/
+2025-04-11 12:42:51,059 - INFO - Found 42 potential article links from Yahoo Finance
+2025-04-11 12:42:53,369 - INFO - Successfully saved article: Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+2025-04-11 12:42:56,016 - INFO - Successfully saved article: US | Yahoo News - Latest News & Headlines
+2025-04-11 12:42:59,546 - INFO - Successfully saved article: Latest Political News, Updates, and Analysis - Yahoo News
+2025-04-11 12:43:02,247 - INFO - Successfully saved article: World News - Latest and Breaking Coverage - Yahoo News
+2025-04-11 12:43:05,065 - INFO - Successfully saved article: Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+2025-04-11 12:43:08,444 - INFO - Successfully saved article: Latest Science News and Updates on Space, Climate Change and More - Yahoo News
+2025-04-11 12:43:11,335 - INFO - Successfully saved article: Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+2025-04-11 12:43:14,254 - INFO - Successfully saved article: Finance News: Wall Street, financial markets, stocks, securities and more from Yahoo Finance
+2025-04-11 12:43:16,976 - INFO - Successfully saved article: Trump tariffs live updates: US-China trade war reality sets in amid wider 'reciprocal' pause
+2025-04-11 12:43:19,474 - INFO - Successfully saved article: Sign up for Yahoo Finance's Morning Brief
+2025-04-11 12:43:22,663 - INFO - Successfully saved article: 10 best high-yield savings accounts for April 2025: Earn up to 4.35% APY
+2025-04-11 12:43:26,967 - INFO - Successfully saved article: Sports News, Scores, Fantasy Games - Yahoo Sports
+2025-04-11 12:43:31,229 - INFO - Successfully saved article: NFL  News, Expert Analysis, Rumors, Live Updates, & more - Yahoo Sports
+2025-04-11 12:43:35,859 - INFO - Successfully saved article: MLB  News, Expert Analysis, Rumors, Live Updates, & more - Yahoo Sports
+2025-04-11 12:43:39,555 - INFO - Successfully saved article: NBA  News, Expert Analysis, Rumors, Live Updates, & more - Yahoo Sports
+2025-04-11 12:43:43,661 - INFO - Successfully saved article: NHL  News, Expert Analysis, Rumors, Live Updates, & more - Yahoo Sports
+2025-04-11 12:43:47,477 - INFO - Successfully saved article: Soccer  News, Expert Analysis, Rumors, Live Updates & more - Yahoo Sports
+2025-04-11 12:43:51,713 - INFO - Successfully saved article: NCAAF College Football  News, Expert Analysis, Rumors, Live Updates, & more - Yahoo Sports
+2025-04-11 12:43:55,845 - INFO - Successfully saved article: Breaking Sports News, Commentary, and Analysis - Yahoo Sports
+2025-04-11 12:43:59,313 - INFO - Successfully saved article: Rangiora, New Zealand - Weather Forecasts | Maps | News - Yahoo Weather
+2025-04-11 12:44:02,514 - INFO - Successfully saved article: Latest Trending and Live Original Coverage from Yahoo News
+2025-04-11 12:44:05,345 - INFO - Successfully saved article: Stocks pummeled as Nasdaq sinks 4%, Dow drops 1,000 points as new China tariffs loom over markets
+2025-04-11 12:44:08,408 - INFO - Successfully saved article: Stock market today: Dow, S&P 500, Nasdaq futures slide as Trump tariffs keep roiling Wall Street
+2025-04-11 12:44:11,033 - INFO - Successfully saved article: How the bond market helped make Trump blink on tariffs: 'I was watching it.'
+2025-04-11 12:44:13,463 - INFO - Successfully saved article: Commentary: China knows Trump’s breaking point
+2025-04-11 12:44:15,896 - INFO - Successfully saved article: Zillow to ban privately marketed homes, escalating an industry fight over secret listings
+2025-04-11 12:44:18,926 - INFO - Successfully saved article: A $576 Billion Stock-ETF Juggernaut Hit by Extreme Dislocations
+2025-04-11 12:44:22,007 - INFO - Successfully saved article: Rep. Marjorie Taylor Greene bought stocks hit hard by Trump tariffs during the market meltdown
+2025-04-11 12:44:25,004 - INFO - Successfully saved article: Trump's trade war is now all about China
+2025-04-11 12:44:27,763 - INFO - Successfully saved article: US 30-Year Bond Auction Abates Worst Fears of a Buyers’ Strike
+2025-04-11 12:44:30,406 - INFO - Successfully saved article: Nike, Skechers, other US brands could face anti-American pushback in China due to Trump tariffs
+2025-04-11 12:44:33,854 - INFO - Successfully saved article: Hotel chain Hyatt bets on India's population boom to fuel growth
+2025-04-11 12:44:37,059 - INFO - Successfully saved article: Japan's Nikkei falls 5% on Wall Street's sharp decline
+2025-04-11 12:44:39,847 - INFO - Successfully saved article: IBM Informs Staff of DEI Retreat as Trump-Era Scrutiny Grows
+2025-04-11 12:44:43,181 - INFO - Successfully saved article: Exclusive-Venezuela's PDVSA suspends oil loading authorizations to Chevron, sources say
+2025-04-11 12:44:46,017 - INFO - Successfully saved article: Frontier Airlines scraps forecast as Trump's trade war hits travel
+2025-04-11 12:44:48,491 - INFO - Successfully saved article: Gold Hits Record as Recession Anxiety Has Traders Seeking Havens
+2025-04-11 12:44:51,238 - INFO - Successfully saved article: Tesla launches in Saudi Arabia with its first showroom and service center in Riyadh
+2025-04-11 12:44:54,097 - INFO - Successfully saved article: China's Country Garden secures support from some creditors for offshore debt overhaul
+2025-04-11 12:44:57,181 - INFO - Successfully saved article: I’m in my late 50s with a decent nest egg — how can I withdraw money in retirement without going broke?
+2025-04-11 12:45:00,500 - INFO - Successfully saved article: Bessent says US Treasury to take stronger role in bank regulation, easing undue burdens
+2025-04-11 12:45:03,612 - INFO - Successfully saved article: German tech startup 1Komma5 joins Klarna in shelving US IPO plans
+2025-04-11 12:45:04,445 - INFO - Scraping source: MarketWatch (all articles)
+2025-04-11 12:45:04,446 - INFO - Scraping links from MarketWatch: https://www.marketwatch.com/
+2025-04-11 12:45:05,315 - ERROR - Error fetching https://www.marketwatch.com/: 401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/
+2025-04-11 12:45:05,317 - INFO - Scraping source: Business Insider Finance (all articles)
+2025-04-11 12:45:05,317 - INFO - Scraping links from Business Insider Finance: https://www.businessinsider.com/finance
+2025-04-11 12:45:07,231 - INFO - Found 0 potential article links from Business Insider Finance
+2025-04-11 12:45:07,232 - INFO - Scraping source: Forbes (all articles)
+2025-04-11 12:45:07,232 - INFO - Scraping links from Forbes: https://www.forbes.com/money/
+2025-04-11 12:45:09,568 - INFO - Found 45 potential article links from Forbes
+2025-04-11 12:45:10,793 - INFO - Successfully saved article: 
+2025-04-11 12:45:13,845 - INFO - Successfully saved article: Breaking News
+2025-04-11 12:45:16,119 - INFO - Successfully saved article: C-Suite Data Reveals AI’s Nuanced Impact & A Quest To Quantify It
+2025-04-11 12:45:18,161 - INFO - Successfully saved article: DNA Of Success 2023
+2025-04-11 12:45:20,684 - INFO - Successfully saved article: New Forbes Survey Reveals How Executives Are Embracing — And Bracing For — AI
+2025-04-11 12:45:23,053 - INFO - Successfully saved article: Facing A Volatile Market, C-Suites Look To The CFO For Strategic Guidance
+2025-04-11 12:45:25,576 - INFO - Successfully saved article: Resiliency And Ingenuity Revealed In New Forbes Small Business Research
+2025-04-11 12:45:28,947 - INFO - Successfully saved article: 4 Factors To Explore When Considering AI For Professional Work
+2025-04-11 12:45:31,783 - INFO - Successfully saved article: Your Four-Part Blueprint To Unlock AI Value In 2025
+2025-04-11 12:45:33,673 - INFO - Successfully saved article: Diners Club International Celebrates 75 Years
+2025-04-11 12:45:36,189 - INFO - Successfully saved article: Forbes Leadership Lessons
+2025-04-11 12:45:38,468 - INFO - Successfully saved article: Potential Has No Age Summit
+2025-04-11 12:45:40,831 - INFO - Successfully saved article: Celebrating The Power Of Partnership
+2025-04-11 12:45:42,692 - INFO - Successfully saved article: Protecting What Matters Most
+2025-04-11 12:45:44,720 - INFO - Successfully saved article: Beyond The Blueprint: How These Four CEOs Built Billion-Dollar Businesses
+2025-04-11 12:45:46,685 - INFO - Successfully saved article: 2/3 By 2030
+2025-04-11 12:45:49,143 - INFO - Successfully saved article: Your Guide To Marketing In The Era Of AI
+2025-04-11 12:45:51,453 - INFO - Successfully saved article: The Undergrad’s New Journey To Real-World Ready
+2025-04-11 12:45:54,167 - INFO - Successfully saved article: Your Five-Step Strategy To Unleash AI’s Value In Marketing
+2025-04-11 12:45:56,016 - INFO - Successfully saved article: AI 50
+2025-04-11 12:45:57,774 - INFO - Successfully saved article: Forbes Editorial Values And Standards
+2025-04-11 12:45:59,667 - INFO - Successfully saved article: Small Business Outlook Soured Ahead of Tariff Announcement
+2025-04-11 12:46:01,704 - INFO - Successfully saved article: The Winklevosses Are Backing A 22-Year-Old Using AI To Prevent Crypto Hacks
+2025-04-11 12:46:03,588 - INFO - Successfully saved article: How Michael Dorrell Became A Billionaire Making Private Infrastructure A Safe Haven
+2025-04-11 12:46:05,699 - INFO - Successfully saved article: Methodology: Forbes America’s Top Wealth Advisors 2025
+2025-04-11 12:46:07,557 - INFO - Successfully saved article: $144 Billion Tether’s Next Act: A U.S. Stablecoin And A Peer-To-Peer ChatGPT
+2025-04-11 12:46:10,554 - INFO - Successfully saved article: Harvard, Princeton And Others Seek Billions In Bonds To Protect Against Trump’s Funding Freezes
+2025-04-11 12:46:13,507 - INFO - Successfully saved article: Revised Beneficial Ownership Information (BOI) Rule Exempts U.S. Companies From Reporting
+2025-04-11 12:46:15,420 - INFO - Successfully saved article: The New Ivies 2025: 20 Great Colleges Employers Love
+2025-04-11 12:46:18,816 - INFO - Successfully saved article: How Trump’s Presidency Is Impacting Student Loans And Debt Forgiveness
+2025-04-11 12:46:20,860 - INFO - Successfully saved article: Syndicated Conservation Easements Beginning Of The End
+2025-04-11 12:46:22,641 - INFO - Successfully saved article: Bureau Of Prisons Rescinds Controversial Limits On Halfway House
+2025-04-11 12:46:26,100 - INFO - Successfully saved article: How President Trump's Tariffs Could Impact Your Retirement
+2025-04-11 12:46:27,908 - INFO - Successfully saved article: I’ve Got Better Things To Do, But Bots Do Not: Agentic Commerce Wins
+2025-04-11 12:46:31,489 - INFO - Successfully saved article: Nvidia Stock Could Fall If 145% China Tariff Drives Price Increases
+2025-04-11 12:46:33,455 - INFO - Successfully saved article: $1,400 Stimulus Check IRS Payment: Here’s Who’s Still Eligible
+2025-04-11 12:46:36,036 - INFO - Successfully saved article: Auto Door Shuts For Troubled European Manufacturers As Defense Opens
+2025-04-11 12:46:40,070 - INFO - Successfully saved article: Tariffs Have Triggered A Bear—Let’s Adjust Our Income Plan
+2025-04-11 12:46:42,144 - INFO - Successfully saved article: Spin-Off Research Slashes Mural Oncology Valuation
+2025-04-11 12:46:44,263 - INFO - Successfully saved article: 4 Artificial Intelligence Stocks Bounce But Remain In Down Trends
+2025-04-11 12:46:46,288 - INFO - Successfully saved article: Recessions & Equities - What The Supposed Experts Aren’t Telling You
+2025-04-11 12:46:48,073 - INFO - Successfully saved article: The Latino Freeze Movement Economic  Opportunities And Challenges
+2025-04-11 12:46:50,194 - INFO - Successfully saved article: China Market Update: Mea Trumpa
+2025-04-11 12:46:52,279 - INFO - Successfully saved article: Time For Your Annual Wellness Checkup…. Your Financial Wellness
+2025-04-11 12:46:55,849 - INFO - Successfully saved article: Talk To Your Spouse About Money: 6 Expert Tips And 9 Conversation Starters
+2025-04-11 12:46:56,884 - INFO - Full scraping completed. Added 129 new articles.
